@@ -1,4 +1,4 @@
-docker-compose-gke
+docker-compose-gcr
 ##################
 
 Summary
